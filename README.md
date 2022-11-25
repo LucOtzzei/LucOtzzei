@@ -27,6 +27,6 @@
   <a target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/LucOtzzei/LucOtzzei/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/LucOtzzei/LucOtzzei/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
