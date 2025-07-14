@@ -13,7 +13,7 @@
 </div>
 
 ##
-### 👨‍💻🧪Framworks & Ferramentas que mais estudo/utilizo
+### 👨‍💻🧪Linguagens, Frameworks & Ferramentas que mais utilizo
 <div> 
   <a target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a>
   <a target="_blank"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" target="_blank"></a>
